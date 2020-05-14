@@ -20,7 +20,7 @@ int main(){
     inres[0][row] = row;                //Spalte 1 -> n
 
     printf("\nn:\tf(x):\t\tx:\n\n");
-    printf("%d\t", inres[0][row]);
+    printf("%d\t", inres[0][row]); // JW: type int vs double
     printf("%lf\t", inres[1][row]);
     printf("%lf\n", inres[2][row]);
 
@@ -43,3 +43,10 @@ int main(){
 
     return 0;
 }
+
+/*
+JW-2020-05-12:
+--------------
+> nice implementation! (9/10) 
+> for clean code please cast the value in int before printing it as %d: -1P
+*/
