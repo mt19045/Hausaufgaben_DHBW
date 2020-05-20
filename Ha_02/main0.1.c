@@ -1,5 +1,5 @@
 /*
-Programmed by Christean Lutz und Lukas Mehringer
+Programmed by Christian Lutz und Lukas Mehringer
 Student ID: mt19048 & mt19051
 HW2 
 Calculator for imagenary nummbers 
