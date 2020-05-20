@@ -10,6 +10,7 @@ Questions:
 1. Is it possible to pass a complete  object array/objects in array to fnc? 
 For example: pass cns numers[] to fnc, to read out all numbers and write solution into an extra object in the array
 
+> JW 2020-05-20: yes it is :-) just use call by reference and pass a pointer to the array
 */
 
 #include <stdio.h>
@@ -43,3 +44,8 @@ int main(){
 
     return 0;
 }
+/*
+JW-2020-05-20:
+--------------
+> well done! (10/10) 
+*/
