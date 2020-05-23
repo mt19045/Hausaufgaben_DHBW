@@ -1,4 +1,8 @@
-
+/*
+date:       23.05.2020
+task:       Save and load linked list      
+authors:    Lukas Mehringer and Christian Lutz
+*/
 
 
 #include <stdio.h>
@@ -30,7 +34,7 @@ int main(){
         printf("7... sort list\n");
         printf("0... exit\n");
         scanf("%d", &FLAGG);
-        system("cls");            //menue wird in der Konsolo gelöscht
+        system("cls");                                              //menue wird in der Konsolo gelöscht
     
         switch (FLAGG){
             case 1: printList(start); break;

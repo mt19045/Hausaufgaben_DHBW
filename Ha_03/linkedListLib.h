@@ -1,3 +1,9 @@
+/*
+date:       23.05.2020
+task:       Save and load linked list      
+authors:    Lukas Mehringer and Christian Lutz
+*/
+
 #ifndef LINKEDLISTLIB_H_
 #define LINKEDLISTLIB_H_
 

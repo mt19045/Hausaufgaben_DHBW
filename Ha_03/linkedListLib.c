@@ -1,3 +1,9 @@
+/*
+date:       23.05.2020
+task:       Save and load linked list      
+authors:    Lukas Mehringer and Christian Lutz
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
