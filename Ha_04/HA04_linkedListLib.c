@@ -324,6 +324,11 @@ void stringToLower(char *string) {
 	}
     //printf("\n\n");
 }
+/*
+JW-2020-06-05:
+--------------
+> well done (10/10) !
+*/
 
 
 
